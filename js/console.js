@@ -1,4 +1,4 @@
-console.log('Coded and developed by Anmol Mital, MLWGS Class of 2023. Educational Purposes Only. Copyright Climate and Money 2021.')    
+console.log('Images and content adapted from the Federal Reserve Bank of Richmonds "Dollars and Sense" publication. Coded and developed by Anmol Mital, MLWGS Class of 2023. Educational Purposes Only. Copyright Climate and Money 2021.')    
     
         var wheelTile;
         var data = [];
@@ -511,3 +511,4 @@ console.log('Coded and developed by Anmol Mital, MLWGS Class of 2023. Educationa
         $(document).ready(function(){
             $('#wheelOfFortune').hide();
         });
+        
